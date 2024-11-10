@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="F:\ESTUDOS\CINEL\PROJETO ANTONIO PACHECO - PUZZLE\PuzzleForm.cs" Link="PuzzleForm.cs" />
+    <Compile Include="F:\ESTUDOS\CINEL\PROJETO ANTONIO PACHECO - PUZZLE\PuzzleForm.Designer" Link="PuzzleForm.Designer" />
+  </ItemGroup>
+
+</Project>
